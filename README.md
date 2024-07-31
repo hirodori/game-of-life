@@ -1,5 +1,5 @@
 # game-of-life
-Implementation of Conway's Game of Life using C
+Implementation of Conway's Game of Life using C.
 
 Conway's Game of Life is a cellular automaton that is played on a 2D square grid. Each square (or "cell") on the grid can be either alive or dead, and they evolve according to the following rules:
 
